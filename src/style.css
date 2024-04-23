@@ -12,7 +12,9 @@ body{
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background: #E3F2FD;
+  background: #E3F2FD url(https://images.pexels.com/photos/850804/pexels-photo-850804.jpeg?auto=compress&cs=tinysrgb&w=400) center no-repeat;
+  background-blend-mode: darken;
+  background-size: cover;
 }
 .container{
   width: 850px;
